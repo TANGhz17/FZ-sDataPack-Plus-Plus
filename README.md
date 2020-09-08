@@ -1,6 +1,7 @@
-# FZ-sDataPack
+# FZ-sDataPack-Plus-Plus
 A Minecraft Datapack
 #### @Author: Harvey.Kang 
+#### @Improver: TANGhz17 （1.5+）
 #### @Create: 2019-10-01 
 #### @License: GNU General Public License, version 3 (GPL-3.0) 
 
@@ -15,6 +16,9 @@ A Minecraft Datapack
 使用“/script invoke help”查看tagplayer帮助  
 适配https://github.com/Harveykang/TagPlayer 地毯插件，需要放在“存档名\scripts”文件夹中  
 卸载时先输入“/function fz:uninstall”，再删除数据包
+
+##### v1.5
+- 加入了矿车掉落物的白名单（默认不会清理“矿车”掉落物）
 
 ##### v1.4.2
 - 修复扫地机时间设置过长时会导致刷屏清物品的bug
