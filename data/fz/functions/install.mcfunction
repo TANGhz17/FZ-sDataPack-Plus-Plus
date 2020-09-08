@@ -1,4 +1,5 @@
 # @Author: Harvey.Kang
+# @Improver: TANGhz17 （1.5+）
 # @Date: 2019-10-01
 # @License: GNU General Public License, version 3 (GPL-3.0)
 
@@ -28,9 +29,9 @@ function fz:cleaner/install
 function fz:logintips/install
 function fz:config/install
 #升级用after#
-###1.4.0-dev2
+###1.4.0-dev2  1.5.0
 scoreboard players set versionMajor version 1
-scoreboard players set versionMinor version 4
+scoreboard players set versionMinor version 5
 scoreboard players set versionPatch version 0
 scoreboard players reset dev1 version
 scoreboard players reset dev2prefix version
