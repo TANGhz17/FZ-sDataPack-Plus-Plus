@@ -17,8 +17,11 @@ A Minecraft Datapack
 适配https://github.com/Harveykang/TagPlayer 地毯插件，需要放在“存档名\scripts”文件夹中  
 卸载时先输入“/function fz:uninstall”，再删除数据包
 
-##### v1.5
+##### v1.5.1
 - 加入了矿车掉落物的白名单（默认不会清理“矿车”掉落物）
+
+##### v1.4.3
+- 修复远古bug：卸载的内容在重启服务器后会重新加载
 
 ##### v1.4.2
 - 修复扫地机时间设置过长时会导致刷屏清物品的bug
