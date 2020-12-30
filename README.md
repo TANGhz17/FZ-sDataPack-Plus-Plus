@@ -1,4 +1,4 @@
-# FZ-sDataPack-Plus-Plus
+# FZ-sDataPack-Plus-Plus（停止更新，延皓重写了继续更新了[FZ-sDatapack](https://gitee.com/harvey-husky/FZ-sDatapack)）
 A Minecraft Datapack
 #### @Author: Harvey.Kang 
 #### @Improver: TANGhz17 （1.5+）
